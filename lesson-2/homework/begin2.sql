@@ -9,3 +9,5 @@ set salary=60000000
 where EmpID=1
 delete from employees
 where EmpID=2
+truncate table employees
+drop table	employees
